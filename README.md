@@ -1,24 +1,24 @@
-# Trabalho de Conclusão de Curso - Diego Queiroz
+ï»¿# Trabalho de ConclusÃ£o de Curso - Diego Queiroz
 
-Código fonte do projeto de pesquisa de Diego Queiroz apresentado em 2008 ao Curso de Bacharelado
-em Ciência da Computação da Universidade Nove de Julho como requisito parcial para obtenção do
-grau de Bacharel em Ciência da Computação sob a Orientação do Prof. Sidnei Alves de Araújo.
+CÃ³digo fonte do projeto de pesquisa de Diego Queiroz apresentado em 2008 ao Curso de Bacharelado
+em CiÃªncia da ComputaÃ§Ã£o da Universidade Nove de Julho como requisito parcial para obtenÃ§Ã£o do
+grau de Bacharel em CiÃªncia da ComputaÃ§Ã£o sob a OrientaÃ§Ã£o do Prof. Sidnei Alves de AraÃºjo.
 
-## Título
+## TÃ­tulo
 
-Utilização de algoritmos genéticos para análise de rotas de aeronaves
+UtilizaÃ§Ã£o de algoritmos genÃ©ticos para anÃ¡lise de rotas de aeronaves
 
 ## Resumo
 
-Atualmente ocorre uma crise no setor aéreo do Brasil, muitas delas causadas por falhas humanas.
-Um dos fatores agravantes dessa crise é o constante registro de ocorrências de desastres aéreos,
-como a colisão de aeronaves. Este tipo de problema exige que sejam criadas técnicas eficientes
-de tomada de decisão de modo a facilitar a execução de procedimentos padrões, prever condições
-adversas e evitar acidentes. Este trabalho propõe uma forma alternativa à análise exaustiva de
-rotas de aeronaves utilizando uma técnica de Inteligência Artificial a fim de evitar possíveis
-colisões.
+Atualmente ocorre uma crise no setor aÃ©reo do Brasil, muitas delas causadas por falhas humanas.
+Um dos fatores agravantes dessa crise Ã© o constante registro de ocorrÃªncias de desastres aÃ©reos,
+como a colisÃ£o de aeronaves. Este tipo de problema exige que sejam criadas tÃ©cnicas eficientes
+de tomada de decisÃ£o de modo a facilitar a execuÃ§Ã£o de procedimentos padrÃµes, prever condiÃ§Ãµes
+adversas e evitar acidentes. Este trabalho propÃµe uma forma alternativa Ã  anÃ¡lise exaustiva de
+rotas de aeronaves utilizando uma tÃ©cnica de InteligÃªncia Artificial a fim de evitar possÃ­veis
+colisÃµes.
 
-## Histórico
+## HistÃ³rico
 
- * Projeto finalizado. Sem histórico.
+ * Projeto finalizado. Sem histÃ³rico.
 
